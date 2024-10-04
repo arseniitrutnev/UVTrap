@@ -1,0 +1,12 @@
+name: UVTrap
+version: '${project.version}'
+main: uv.uranvex.uvtrap.UVTrap
+api-version: '1.16'
+author: UranVex
+
+commands:
+  trap:
+
+depend:
+  - WorldEdit
+  - WorldGuard

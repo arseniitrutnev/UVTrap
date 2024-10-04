@@ -1,0 +1,15 @@
+trap:
+  material: HONEYCOMB
+  displayname: "&#DAF242[&#DAF242◆&#DAF242] &#DAF242Т&#DAF242р&#DAF242а&#DAF242п&#DAF242к&#DAF242а"
+  lore:
+    - ""
+    - "&fСоздает куб 3x3 блоков"
+    - "&fВ котором можно сражаться!"
+  duration: 15
+  cooldown: 25
+  sound: BLOCK_PISTON_EXTEND
+  exclude-world: spawn
+
+messages:
+  player-offline: "Игрок не в сети"
+  cooldown: "&#DAF242Э&#DAF242т&#DAF242о&#DAF242т &#DAF242п&#DAF242р&#DAF242е&#DAF242д&#DAF242м&#DAF242е&#DAF242т &#DAF242м&#DAF242о&#DAF242ж&#DAF242н&#DAF242о &#DAF242б&#DAF242у&#DAF242д&#DAF242е&#DAF242т &#DAF242и&#DAF242с&#DAF242п&#DAF242о&#DAF242л&#DAF242ь&#DAF242з&#DAF242о&#DAF242в&#DAF242а&#DAF242т&#DAF242ь &#DAF242ч&#DAF242е&#DAF242р&#DAF242е&#DAF242з {secondsLeft} &#DAF242с&#DAF242е&#DAF242к&#DAF242у&#DAF242н&#DAF242д"
